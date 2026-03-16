@@ -2,9 +2,9 @@ import type { Metadata, Viewport } from 'next'
 import { Inter, Playfair_Display } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
-import { Navbar } from '@/components/navbar'
-import { Footer } from '@/components/footer'
-import { CartProvider } from '@/context/cart-context'
+import { Navbar } from '../components/navbar'
+import { Footer } from '../components/footer'
+import { CartProvider } from '../context/cart-context'
 
 const inter = Inter({ 
   subsets: ["latin"],
