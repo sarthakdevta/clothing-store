@@ -20,15 +20,15 @@ export default function SettingsPage() {
             <div className="space-y-4">
               <div className="space-y-2">
                 <Label htmlFor="storeName">Store Name</Label>
-                <Input id="storeName" defaultValue="LUXE" />
+                <Input id="storeName" defaultValue="SARTHAK CLOTHINGS" />
               </div>
               <div className="space-y-2">
                 <Label htmlFor="storeEmail">Contact Email</Label>
-                <Input id="storeEmail" type="email" defaultValue="contact@luxe.com" />
+                <Input id="storeEmail" type="email" defaultValue="sarthakpersonal755@gmail.com" />
               </div>
               <div className="space-y-2">
                 <Label htmlFor="storePhone">Phone Number</Label>
-                <Input id="storePhone" defaultValue="+1 (555) 123-4567" />
+                <Input id="storePhone" defaultValue="+91 90095 85458" />
               </div>
             </div>
           </div>

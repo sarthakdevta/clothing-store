@@ -55,7 +55,7 @@ export function Navbar() {
             {/* Logo */}
             <Link href="/" className="flex-shrink-0">
               <h1 className="text-2xl lg:text-3xl font-serif font-bold tracking-wider">
-                LUXE
+                SARTHAK CLOTHINGS
               </h1>
             </Link>
 
@@ -157,7 +157,7 @@ export function Navbar() {
             >
               <div className="flex flex-col h-full">
                 <div className="flex items-center justify-between p-4 border-b border-border">
-                  <h2 className="text-xl font-serif font-bold tracking-wider">LUXE</h2>
+                  <h2 className="text-xl font-serif font-bold tracking-wider">SARTHAK CLOTHINGS</h2>
                   <button
                     onClick={() => setIsMobileMenuOpen(false)}
                     className="p-2"

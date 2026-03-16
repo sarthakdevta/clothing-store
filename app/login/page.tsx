@@ -21,7 +21,7 @@ export default function LoginPage() {
         {/* Header */}
         <div className="text-center mb-8">
           <Link href="/" className="inline-block mb-6">
-            <h1 className="text-3xl font-serif font-bold tracking-wider">LUXE</h1>
+            <h1 className="text-3xl font-serif font-bold tracking-wider">SARTHAK CLOTHINGS</h1>
           </Link>
           <h2 className="text-2xl font-serif font-bold mb-2">
             {isLogin ? 'Welcome Back' : 'Create Account'}

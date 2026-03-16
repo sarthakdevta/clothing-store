@@ -52,7 +52,7 @@ export function AdminSidebar() {
               animate={{ opacity: 1 }}
               className="font-serif text-xl font-bold"
             >
-              LUXE Admin
+              SARTHAK CLOTHINGS Admin
             </motion.span>
           )}
         </Link>
@@ -109,7 +109,7 @@ export function AdminSidebar() {
           <div className="w-8 h-8 bg-foreground rounded-lg flex items-center justify-center">
             <span className="text-background font-bold">L</span>
           </div>
-          <span className="font-serif text-lg font-bold">LUXE Admin</span>
+          <span className="font-serif text-lg font-bold">SARTHAK CLOTHINGS Admin</span>
         </Link>
         <Button
           variant="ghost"

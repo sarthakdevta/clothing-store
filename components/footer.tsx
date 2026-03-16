@@ -74,7 +74,7 @@ export function Footer() {
           {/* Brand */}
           <div className="col-span-2 md:col-span-4 lg:col-span-1 mb-8 lg:mb-0">
             <Link href="/" className="inline-block mb-6">
-              <h2 className="text-3xl font-serif font-bold tracking-wider">LUXE</h2>
+              <h2 className="text-3xl font-serif font-bold tracking-wider">SARTHAK CLOTHINGS</h2>
             </Link>
             <p className="text-primary-foreground/70 text-sm leading-relaxed mb-6">
               Premium fashion designed for modern lifestyle. Discover our curated collection of contemporary essentials.
@@ -170,7 +170,7 @@ export function Footer() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-primary-foreground/50">
-              © {new Date().getFullYear()} LUXE. All rights reserved.
+              © {new Date().getFullYear()} SARTHAK CLOTHINGS. All rights reserved.
             </p>
             <div className="flex items-center gap-6">
               <span className="text-sm text-primary-foreground/50">We accept:</span>

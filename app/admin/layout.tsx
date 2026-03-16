@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Admin Dashboard | LUXE',
-  description: 'LUXE Admin Dashboard - Manage your store',
+  title: 'Admin Dashboard | SARTHAK CLOTHINGS',
+  description: 'SARTHAK CLOTHINGS Admin Dashboard - Manage your store',
 }
 
 export default function AdminLayout({

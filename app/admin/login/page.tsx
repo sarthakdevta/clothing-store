@@ -55,7 +55,7 @@ export default function AdminLoginPage() {
         <div className="bg-card border border-border rounded-2xl p-8 shadow-xl">
           <div className="text-center mb-8">
             <Link href="/" className="inline-block">
-              <h1 className="text-3xl font-serif font-bold tracking-tight">LUXE</h1>
+              <h1 className="text-3xl font-serif font-bold tracking-tight">SARTHAK CLOTHINGS</h1>
             </Link>
             <p className="text-muted-foreground mt-2">Admin Dashboard</p>
           </div>
@@ -79,7 +79,7 @@ export default function AdminLoginPage() {
                 <Input
                   id="email"
                   type="email"
-                  placeholder="admin@luxe.com"
+                  placeholder="sarthakpersonal755@gmail.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   className="pl-10"
@@ -122,7 +122,7 @@ export default function AdminLoginPage() {
 
           <div className="mt-6 text-center">
             <p className="text-sm text-muted-foreground">
-              Demo credentials: admin@luxe.com / admin123
+              Demo credentials: sarthakpersonal755@gmail.com / 123456
             </p>
           </div>
         </div>

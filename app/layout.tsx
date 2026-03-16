@@ -19,7 +19,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: 'LUXE | Premium Fashion Store',
+  title: 'SARTHAK CLOTHINGS | Premium Fashion Store',
   description: 'Discover premium fashion designed for modern lifestyle. Shop the latest collections for men and women.',
   keywords: ['fashion', 'clothing', 'premium', 'luxury', 'men', 'women', 'style'],
   generator: 'v0.app',
