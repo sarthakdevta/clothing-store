@@ -137,3 +137,10 @@ export const getBestSellers = (): Product[] => {
 export const getSaleProducts = (): Product[] => {
   return products.filter((p) => p.badge === 'sale')
 }
+export const getProducts = (): Product[] => {
+  return products
+}
+
+export const saveProduct = (product: Product) => {
+  products.push(product)
+}
