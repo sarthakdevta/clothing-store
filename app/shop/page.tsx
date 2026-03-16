@@ -7,6 +7,7 @@ import { Filter, X, ChevronDown, Grid3X3, LayoutGrid } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { ProductCard } from '@/components/product-card'
 import { products } from '@/lib/products'
+import { Suspense } from "react"
 
 const categories = ['All', 'Men', 'Women', 'Jackets', 'Accessories']
 const sortOptions = [
